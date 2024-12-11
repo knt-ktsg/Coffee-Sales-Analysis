@@ -27,8 +27,19 @@ Coffee shops typically offer a wide variety of products, and their sales fluctua
   - matplotlib
   - seaborn
 
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:knt-ktsg/Coffee-Sales-Analysis.git
+
+2. Install dependencies:
+   ```bash
+   pip pip install -r requirements.txt
+
 ## Usage
-`jupyter notebook Coffee_Sales_Analysis.jpynb`
+1. Open the Jupyter Notebook:
+   ```bush
+   jupyter notebook Coffee_Sales_Analysis.jpynb
 
 ## Key Findings
 * Hell's Kitchen has the highest sales among the three locations.
